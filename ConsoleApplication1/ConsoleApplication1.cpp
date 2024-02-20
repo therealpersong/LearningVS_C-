@@ -7,6 +7,7 @@ int Multiply(int a, int b)
 int main()
 {
 	std::cout << "Hello world" << std::endl;
-	//commit testing
+	std::string helloworld;
+
 	std::cin.get();
 }
