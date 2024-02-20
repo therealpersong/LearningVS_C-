@@ -1,0 +1,1 @@
+This repository is meant for VS studio and me learning how VS studio works and how to use it to make programs, applications and other things, this is just a way for me to document the things I learn or do.
