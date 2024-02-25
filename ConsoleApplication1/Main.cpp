@@ -1,10 +1,10 @@
 #include <iostream>
-#include "Log.h"
-
 
 int main()
 {
-	InitLog();
-	Log("Hello World!");
-	std::cin.get();
+	int x = 5;
+	bool comparisonresult = x == 5;
+	if (comparisonresult){
+		std::cout << "Result is equal";
+	}
 }
