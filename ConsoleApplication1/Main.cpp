@@ -2,9 +2,9 @@
 
 int main()
 {
-	int x = 5;
-	bool comparisonresult = x == 5;
-	if (comparisonresult){
-		std::cout << "Result is equal";
-	}
+    for (int i = 0; i < 5; i++)
+    {
+        std::cout << "Hello World" << std::endl;
+    }
+    return 0;
 }
